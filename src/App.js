@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Micah <code>Always</code> work smart then hard.
+          Micah, always work smart – and then hard. Not the other way
+          around.Efficiency and Effectiveness is what matters with every task.
+          Build the baseline mvp... and then enhance, enhance, enhance.
         </p>
         <a
           className="App-link"
